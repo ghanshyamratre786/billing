@@ -1,6 +1,6 @@
 <footer id="footer" class="footer">
     <div class="copyright">
-    Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://techchords.com/" target="_blank">Tech Chords</a>
+    Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | 
     </div>
    
   </footer><!-- End Footer -->

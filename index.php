@@ -68,7 +68,7 @@ if(isset($_POST['submit'])) {
               <div class="d-flex justify-content-center py-4">
                 <a href="index" class="logo d-flex align-items-center w-auto">
                   <img src="login/assets/img/logo.png" alt="">
-                  <span class="d-none d-lg-block">Pet diagnostics</span>
+                  <span class="d-none d-lg-block">Billing Software </span>
                 </a>
               </div><!-- End Logo -->
 
@@ -76,7 +76,7 @@ if(isset($_POST['submit'])) {
 
                 <div class="card-body">
 
-                  <div class="pt-4 pb-2">
+                  <div class="pt -4 pb-2">
                     <h5 class="card-title text-center pb-0 fs-4">Login to Your Account</h5>
                     <h6 class="text-center" style="color:red;"><?php echo $print_data; ?></h6>
                     <p class="text-center small">Enter your username & password to login</p>

@@ -6,6 +6,12 @@
          <span>Dashboard</span>
          </a>
       </li>
+      <li class="nav-item">
+         <a class="nav-link " href="category">
+         <i class="bi bi-grid"></i>
+         <span>Category</span>
+         </a>
+      </li>
      
    </ul>
 </aside>
