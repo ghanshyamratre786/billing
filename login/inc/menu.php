@@ -12,6 +12,13 @@
          <span>Category</span>
          </a>
       </li>
+      <li class="nav-item">
+         <a class="nav-link " href="product">
+         <i class="bi bi-grid"></i>
+         <span>Product</span>
+         </a>
+      </li>
+      
      
    </ul>
 </aside>
